@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_world"
+            android:title="@string/world_section" />
+        <item
+            android:id="@+id/nav_sport"
+            android:title="@string/sport_section" />
+        <item
+            android:id="@+id/nav_football"
+            android:title="@string/football_section" />
+        <item
+            android:id="@+id/nav_opinion"
+            android:title="@string/opinion_section" />
+        <item
+            android:id="@+id/nav_culture"
+            android:title="@string/culture_section" />
+        <item
+            android:id="@+id/nav_business"
+            android:title="@string/business_section" />
+        <item
+            android:id="@+id/nav_lifestyle"
+            android:title="@string/lifestyle_section" />
+        <item
+            android:id="@+id/nav_fashion"
+            android:title="@string/fashion_section" />
+        <item
+            android:id="@+id/nav_environment"
+            android:title="@string/environment_section" />
+        <item
+            android:id="@+id/nav_science"
+            android:title="@string/science_section" />
+        <item
+            android:id="@+id/nav_tech"
+            android:title="@string/tech_section" />
+        <item
+            android:id="@+id/nav_travel"
+            android:title="@string/travel_section" />
+    </group>
+
+</menu>

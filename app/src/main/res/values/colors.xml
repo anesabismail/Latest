@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors for the light theme -->
+    <color name="colorPrimary">#EEEEEE</color>
+    <color name="colorPrimaryDark">#616161</color>
+    <color name="colorAccent">#616161</color>
+
+    <!-- Colors for the dark theme -->
+    <color name="colorPrimaryNight">#616161</color>
+    <color name="colorPrimaryDarkNight">#424242</color>
+    <color name="colorAccentNight">#EEEEEE</color>
+
+    <!-- Colors of the toolbar for 7+ devices -->
+    <color name="colorPrimaryDarkWhite">@android:color/white</color>
+
+</resources>
